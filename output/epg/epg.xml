@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250501052954 +0800">
+<tv date="20250501103108 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -28395,6 +28395,15 @@
 	<programme channel="黑莓动画" start="20250501113500 +0800" stop="20250501123500 +0800">
 		<title lang="zh">哪吒闹海</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250501123500 +0800" stop="20250501135700 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250501135700 +0800" stop="20250501151900 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250501151900 +0800" stop="20250501164500 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -28421,6 +28430,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250501112200 +0800" stop="20250501134500 +0800">
 		<title lang="zh">变形金刚</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250501134500 +0800" stop="20250501151500 +0800">
+		<title lang="zh">战狼</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250501151500 +0800" stop="20250501165700 +0800">
+		<title lang="zh">足球少年</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -29070,6 +29085,9 @@
 	<programme channel="龙岩综合" start="20250501231500 +0800" stop="20250501235900 +0800">
 		<title lang="zh">午夜影剧院</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
 	<channel id="五星体育">
 		<display-name lang="zh">五星体育</display-name>
 	</channel>
@@ -29150,8 +29168,5 @@
 	</programme>
 	<channel id="甘肃经济">
 		<display-name lang="zh">甘肃经济</display-name>
-	</channel>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
 	</channel>
 </tv>
